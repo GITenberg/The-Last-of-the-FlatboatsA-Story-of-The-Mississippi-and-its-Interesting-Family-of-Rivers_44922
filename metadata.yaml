@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8154
     wikipedia: https://en.wikipedia.org/wiki/George_Cary_Eggleston
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44922#The-Last-of-the-FlatboatsA-Story-of-The-Mississippi-and-its-Interesting-Family-of-Rivers
 gutenberg_issued: '2014-02-15'
 gutenberg_type: Text
 identifiers:
